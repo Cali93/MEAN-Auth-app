@@ -1,6 +1,6 @@
 # MEANauthapp
 
-## Complete MEAN stack application with authentication using json web tokens
+## Complete MEAN stack application with authentication using JWT
 ## Version
 1.0.0
 
