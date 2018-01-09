@@ -1,0 +1,30 @@
+{
+  "name": "mean-auth-app",
+  "version": "1.0.0",
+  "description": "MEAN Auth app",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app"
+  },
+  "dependencies": {
+    "express": "*",
+    "mongoose": "*",
+    "bcryptjs": "*",
+    "cors": "*",
+    "jsonwebtoken": "*",
+    "passport": "*",
+    "body-parser": "*",
+    "passport-jwt": "*"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Cali93/MEAN-Auth-app.git"
+  },
+  "author": "Cali-dev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Cali93/MEAN-Auth-app/issues"
+  },
+  "homepage": "https://github.com/Cali93/MEAN-Auth-app#readme"
+}
