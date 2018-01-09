@@ -1,4 +1,4 @@
-# MEANauthapp
+# MEAN Auth App
 
 ## Complete MEAN stack application with authentication using JWT
 ## Version
